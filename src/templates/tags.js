@@ -12,8 +12,6 @@ function getTitleForTag(tag) {
     switch (tag) {
         case 'crypto':
             return 'Cryptocurrency'
-        case 'basics':
-            return 'Basics'
         case 'forex':
             return 'Forex'
         case 'signals':

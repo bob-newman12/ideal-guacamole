@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'NVST Academy',
+    title: 'Novoinvest',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'We are a community of financial experts with a passion to help others improve their financial knowledge. No matter if you are a beginner or an expert investor, you will most definitely find something within our library of content that will help improve your investing strategies.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

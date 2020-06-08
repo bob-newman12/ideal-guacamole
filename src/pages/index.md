@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: NVST Academy
+title: Novoinvest
 image: /img/hero.jpg
-heading: NVST Academy
+heading: Novoinvest
 description: >-
   We are a community of financial experts with a passion to help others improve
   their financial knowledge. No matter if you are a beginner or an expert
