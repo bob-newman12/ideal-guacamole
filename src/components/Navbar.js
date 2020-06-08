@@ -58,7 +58,7 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-end has-text-centered">
               <Link className="navbar-item" to="/articles/signals">
-                Trading signals
+                Noticias
               </Link>
               <Link className="navbar-item" to="/articles/forex">
                 Forex
