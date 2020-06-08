@@ -4,33 +4,21 @@ title: Novoinvest
 image: /img/hero.jpg
 heading: Novoinvest
 description: >-
-  We are a community of financial experts with a passion to help others improve
-  their financial knowledge. No matter if you are a beginner or an expert
-  investor, you will most definitely find something within our library of
-  content that will help improve your investing strategies.
+  Siamo una comunità di esperti finanziari con la passione di aiutare gli altri a migliorare le proprie conoscenze finanziarie. Non importa se sei un principiante o un investitore esperto, troverai sicuramente qualcosa nella nostra libreria di contenuti che ti aiuterà a migliorare le tue strategie di investimento.
 intro:
   blurbs:
     - image: /img/basics.jpg
       text: >-
-        We will help you start from scratch. Teach you everything there is to
-        know about investing and trading. You will start off with the right
-        knowledge to help you assess risk and predict the markets.
+        Ti aiuteremo a ricominciare da zero. Ti insegnano tutto ciò che c'è da sapere su investimenti e trading. Inizierai con le giuste conoscenze per aiutarti a valutare il rischio e prevedere i mercati.
     - image: /img/crypto.jpg
       text: >-
-        We have a special team of cryptocurrency experts that will provide you
-        with insider knowledge in the cryptocurrency world, teach you how to
-        navigate the market of this wild kind of asset and help you avoid some
-        of the pitfalls that come with investing in it.
+        Abbiamo un team speciale di esperti di criptovaluta che ti fornirà conoscenze privilegiate nel mondo della criptovaluta, ti insegnerà come navigare nel mercato di questo tipo selvaggio di asset e ti aiuterà a evitare alcune insidie che derivano dall'investire in esso.
     - image: /img/forex.jpg
       text: >
-        If you enjoy high risk high reward trading, forex is right down your
-        alley. With our advanced technical analysis techniques and our community
-        of traders we will help set you up for success!
+        Se ti piace il trading ad alto rischio e ad alto rischio, il forex è per te. Con le nostre tecniche di analisi tecnica avanzata e la nostra comunità di trader, ti aiuteremo ad avere successo!
     - image: /img/signals.jpg
       text: >-
-        If you are a busy individual that doesn't have a lot of time to study
-        the markets by himself, then you can rely on us to do the hard work for
-        you and provide you with the most accurate and low risk trading signals.
+        Se sei una persona impegnata che non ha molto tempo per studiare i mercati da solo, puoi fare affidamento su di noi per fare il duro lavoro per te e fornirti i segnali di trading più precisi e a basso rischio.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -38,15 +26,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Only the best information with no compromises
+  heading: Solo le migliori informazioni senza compromessi
   description: >-
-    We take pride in providing our readers with the most accurate and well
-    researched articles. We value the quality of our content as it is the most
-    important attribute that separates us from our competitors. Our experts are
-    among the best of their respective fields but above all they are passionate
-    about helping our clients reach their goals. Armed with the knowledge we
-    provide you, you will be able to become proficient in trading and investing
-    in no time.
+    Siamo orgogliosi di fornire ai nostri lettori gli articoli più precisi e ben studiati. Apprezziamo la qualità dei nostri contenuti in quanto è l'attributo più importante che ci separa dai nostri concorrenti. I nostri esperti sono tra i migliori dei rispettivi settori, ma soprattutto sono appassionati nell'aiutare i nostri clienti a raggiungere i loro obiettivi. Grazie alle conoscenze che ti forniamo, sarai in grado di diventare esperto nel trading e negli investimenti in pochissimo tempo.
   image1:
     alt: Forex
     image: /img/Overview-Forex-min.jpg
@@ -57,16 +39,12 @@ main:
     alt: Stock exchange
     image: /img/bursa.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Lamberto Valenza
     quote: >-
-      I have made some amazing progress the past year. I went from not knowing
-      what a stock was, to having a diverse portfolio that now provides me with
-      a passive income bigger than my salary.
-  - author: Philipp Trommler
+      Ho fatto dei progressi incredibili l'anno scorso. Sono passato dal non sapere cosa fosse un titolo, ad avere un portafoglio diversificato che ora mi fornisce un reddito passivo più grande del mio stipendio.
+  - author: Melissa Chiaverini
     quote: >-
-      I had been trading on my own for more than 3 years, but with not much
-      success. Dr. Giovanna helped me refine my trading strategy and I have been
-      in the green ever since.
+      Ho negoziato da solo per più di 3 anni, ma con scarso successo. Novoinvest mi ha aiutato a perfezionare la mia strategia di trading e da allora ho raddoppiato il mio investimento.
 full_image: /img/learning.jpg
 pricing:
   heading: Monthly subscriptions
