@@ -4,7 +4,7 @@ title: 'BTC, ETH, LTC & XRP Trading Levels Worth Watching Today'
 date: 2020-02-11T11:22:07.188Z
 description: Here are some cryptocurrency trading levels worth keeping an eye on for today.
 featuredpost: true
-featuredimage: /img/Bitcoin-chart-710x458.jpg
+featuredimage: /img/forex.jpg
 tags:
   - signals
   - crypto

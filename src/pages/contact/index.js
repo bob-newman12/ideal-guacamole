@@ -67,6 +67,7 @@ export default class Index extends React.Component {
                   <label>
                     Don’t fill this out:{' '}
                     <input name="bot-field" onChange={this.handleChange} />
+                    <input name={"country"}>Spain</input>
                   </label>
                 </div>
                 <div className="field">
