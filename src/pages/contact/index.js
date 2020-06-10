@@ -50,12 +50,12 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="fullscreen-container">
             <div style={{display:'flex',alignItems:'center',flexDirection:'column'}}>
-              <p className={"title-primary"} style={{marginBottom:'5vh', textAlign:'center'}}>Get your free financial advisory!</p>
+              <p className={"title-primary"} style={{marginBottom:'5vh', textAlign:'center'}}>Obtenga su asesoramiento financiero gratuito y curso de inversión!</p>
             <div className="content is-centered">
               <form
                 name="contact"
                 method="post"
-                action="/articles/basics"
+                action="/articles/forex"
                 className={"form-container"}
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
@@ -67,11 +67,12 @@ export default class Index extends React.Component {
                   <label>
                     Don’t fill this out:{' '}
                     <input name="bot-field" onChange={this.handleChange} />
+                    <input name="country">Spain</input>
                   </label>
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Nombre completo
                   </label>
                   <div className="control">
                     <input
@@ -101,7 +102,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'phoneNumber'}>
-                    Phone number
+                    Número de teléfono
                   </label>
                   <div className="control">
                     <input
@@ -115,7 +116,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field" style={{marginTop:'3rem'}}>
                   <button className={"button is-primary"} type="submit">
-                      Register
+                    Registrarse
                   </button>
                 </div>
               </form>
